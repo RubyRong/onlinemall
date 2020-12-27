@@ -1,7 +1,5 @@
 *.class
 # package file
-*.war
-*.ear
 
 #
 *.war
